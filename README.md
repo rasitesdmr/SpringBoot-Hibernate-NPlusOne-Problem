@@ -139,5 +139,5 @@ docker-compose -f docker-compose-test.yaml down -v
 ▶️ swagger = localhost:8088/rasitesdmr
 
 <p align ="center">
-<img src = "">
+<img src = "https://github.com/rasitesdmr/SpringBoot-Hibernate-NPlusOne-Problem/blob/master/images/hb-1.png">
 </p>
